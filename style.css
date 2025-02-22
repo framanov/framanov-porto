@@ -412,6 +412,8 @@ body{
     .card-porto {
         width: 90%;
         margin: 15px auto;
+        text-align: center;
+        justify-items: center;
     }
     
     /* Contact section fixes */
