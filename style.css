@@ -338,6 +338,10 @@ cursor {
   height: 32px;
 }
 
+.portofolio-section p{
+  padding-bottom: 20px;
+}
+
 /* contact me section page */
 
 .contact-section {
