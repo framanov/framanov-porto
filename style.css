@@ -438,6 +438,22 @@ cursor {
     margin: 10px 0;
   }
 
+  .card, .card-porto {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+  }
+  
+  .card img, .card-porto img {
+    max-width: 80%; /* Make images a bit smaller on mobile */
+    margin: 15px auto;
+  }
+  
+  .icon {
+    justify-content: center;
+  }
+  
   /* Intro section fixes */
   .intro {
     flex-direction: column;
